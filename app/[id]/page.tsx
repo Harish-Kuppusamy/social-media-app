@@ -100,7 +100,7 @@ export default async function page({ params }: pageProps) {
   );
 }
 
-export function Comments({name,username, text  }: Comment) {
+function Comments({name,username, text  }: Comment) {
   return (
     <div className="border-b border-gray-200">
       <PostHeader name={name} username={username} text={text} />
