@@ -140,7 +140,7 @@ export function PostHeader({
         width={44}
         height={44}
         alt="profile"
-        className="w-11 h-11 z-10 bg-white"
+        className={`w-11 h-11  bg-white${replyTo? "z-10": "z-0"}`}
       />
 
       <div className="text-[15px] flex flex-col space-y-1.5 items-start">
