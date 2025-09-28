@@ -39,4 +39,4 @@ It allows users to sign up, log in (with email/password or guest login), and int
 ---
 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! Follow For More!
